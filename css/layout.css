@@ -1,0 +1,80 @@
+
+
+@media (min-width: 768px) {
+    body {
+        max-width: 960px;
+        text-align: center;
+        margin: auto;
+    }
+
+    nav {
+        background-color: teal;
+        width: 100%;
+        height: 100px;
+        line-height: 100px;
+    }
+
+    #divB {
+        background-color:green;
+        width: 20.834%;
+        height: 600px;
+        line-height: 600px;
+        float: left;
+    }     
+    
+    #divC {
+        background-color: rgb(128, 0, 122);
+        width: 39.583%;
+        height: 200px;
+        line-height: 200px;
+        float: right;
+    }
+    
+    #divD {
+        background-color: lightblue;
+        width: 39.583%;
+        height: 200px;
+        line-height: 200px;
+        float: right;
+    }
+    
+    #divE {
+        background-color: yellowgreen;
+        width: 19.7915%;
+        height: 250px;
+        line-height: 250px;
+        float: left;
+    }
+    
+    #divF {
+        background-color: peru;
+        width: 19.7915%;
+        height: 250px;
+        line-height: 250px;
+        float: left;
+    }
+    
+    #divG {
+        background-color: yellow;
+        width: 19.7915%;
+        height: 250px;
+        line-height: 250px;
+        float: left;
+    }
+    
+    #divH {
+        background-color:rgb(128, 58, 0);
+        width: 19.7915%;
+        height: 250px;
+        line-height: 250px;
+        float: right;
+    }
+    
+    footer {
+        width: 79.166%;
+        height: 150px;
+        background-color: rgb(114, 218, 250);
+        line-height: 150px;
+        float: right;
+    }
+}
